@@ -1,0 +1,5 @@
+{
+    "python.linting.pylintEnabled": false,
+    //아나콘다 텐서플로우 가상환경 PATH (터미널 실행)
+    "python.pythonPath": "C:/Users/crack/Anaconda3/envs/tensorflow/python"
+}

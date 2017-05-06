@@ -1,0 +1,10 @@
+{
+    // See https://go.microsoft.com/fwlink/?LinkId=733558
+    // for the documentation about the tasks.json format
+    //ctrl + shift + B 바로 실행
+    "version": "0.1.0",
+    "command": "C:/Users/crack/Anaconda3/envs/tensorflow/python",
+    "isShellCommand": true,
+    "args": ["${file}"],
+    "showOutput": "always"
+}
